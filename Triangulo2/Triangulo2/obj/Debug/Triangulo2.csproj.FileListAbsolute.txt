@@ -1,0 +1,7 @@
+C:\Users\Diego\Desktop\.net\Triangulos\Triangulo2\Triangulo2\obj\Debug\Triangulo2.csprojAssemblyReference.cache
+C:\Users\Diego\Desktop\.net\Triangulos\Triangulo2\Triangulo2\obj\Debug\Triangulo2.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\.net\Triangulos\Triangulo2\Triangulo2\bin\Debug\Triangulo2.exe.config
+C:\Users\Diego\Desktop\.net\Triangulos\Triangulo2\Triangulo2\bin\Debug\Triangulo2.exe
+C:\Users\Diego\Desktop\.net\Triangulos\Triangulo2\Triangulo2\bin\Debug\Triangulo2.pdb
+C:\Users\Diego\Desktop\.net\Triangulos\Triangulo2\Triangulo2\obj\Debug\Triangulo2.exe
+C:\Users\Diego\Desktop\.net\Triangulos\Triangulo2\Triangulo2\obj\Debug\Triangulo2.pdb

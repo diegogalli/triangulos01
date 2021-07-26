@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangulos", "Triangulos\Triangulos.csproj", "{007545F9-0417-479C-A555-7A0B34D074BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{007545F9-0417-479C-A555-7A0B34D074BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{007545F9-0417-479C-A555-7A0B34D074BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{007545F9-0417-479C-A555-7A0B34D074BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{007545F9-0417-479C-A555-7A0B34D074BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C861CC9-E281-4A03-AA05-B7E50EB6B1B6}
+	EndGlobalSection
+EndGlobal
